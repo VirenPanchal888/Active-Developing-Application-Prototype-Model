@@ -1,7 +1,7 @@
 **Dessert Bowl Ordering & Business Automation System**
 
 **📌 Project Overview** - 
-We are developing a highly intelligent, AI-powered mobile application to revolutionize dessert bowl order management for a high-demand dessert street cart in Kolhapur. This smart and automated solution will replace outdated manual processes, reduce waiting times, optimize ingredient stock management, and provide a seamless and efficient customer experience.
+We are developing a highly intelligent, mobile application to revolutionize dessert bowl order management for a high-demand dessert street cart in Kolhapur. This smart and automated solution with QR aplication will replace outdated manual processes, reduce waiting times, optimize ingredient stock management, and provide a seamless and efficient customer experience.
 Our system integrates real-time order tracking, AI-driven pickup scheduling, predictive analytics, and business intelligence dashboards to empower small food vendors with enterprise-level efficiency. Built on BOLT.AI, Replit, Flutter, Node.js, PostgreSQL, and AI models, this scalable, cloud-based system enhances order management, reduces operational bottlenecks, and maximizes customer satisfaction.
 
 
