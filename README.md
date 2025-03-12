@@ -1,6 +1,6 @@
 **Dessert Bowl Ordering & Business Automation System**
 
-**📌 Project Overview**
+**📌 Project Overview** - 
 We are developing a highly intelligent, AI-powered mobile application to revolutionize dessert bowl order management for a high-demand dessert street cart in Kolhapur. This smart and automated solution will replace outdated manual processes, reduce waiting times, optimize ingredient stock management, and provide a seamless and efficient customer experience.
 Our system integrates real-time order tracking, AI-driven pickup scheduling, predictive analytics, and business intelligence dashboards to empower small food vendors with enterprise-level efficiency. Built on BOLT.AI, Replit, Flutter, Node.js, PostgreSQL, and AI models, this scalable, cloud-based system enhances order management, reduces operational bottlenecks, and maximizes customer satisfaction.
 
@@ -20,14 +20,14 @@ Our system integrates real-time order tracking, AI-driven pickup scheduling, pre
 | **Blockchain**               | Ensures secure, transparent, and tamper-proof transactions while supporting cryptocurrency payments, enhancing trust and security in financial operations.                         |
 
 
-**💡 Core Functionalities & Features**
+**💡 Core Functionalities & Features** - 
 🚀 1. AI-Powered Order Management & Automation (Bolt.AI-Enabled)
 🔹 Dynamic Order Limits – The app intelligently adjusts the daily order limit (default: 50-60) based on real-time demand, stock availability, and vendor workload.
 🔹 Automated Order Slot Scheduling – Customers can check real-time slot availability before placing an order, reducing overbooking & confusion.
 🔹 Real-Time Order Tracking – Customers get live updates on their order status from Placement → Processing → Pickup Ready.
 🔹 AI-Driven Inventory Alerts – Predicts ingredient shortages and alerts the owner before stock runs out.
 
-**🧠 2. AI-Powered Pickup Time Prediction & Queue Optimization**
+**🧠 2. AI-Powered Pickup Time Prediction & Queue Optimization**- 
 🔹 Real-Time AI Scheduling – Pickup time is estimated dynamically based on:
 ✔ Active Order Queue & Vendor Workload
 ✔ Average Dessert Preparation Time (default: 2.5 min per bowl)
@@ -36,42 +36,42 @@ Our system integrates real-time order tracking, AI-driven pickup scheduling, pre
 🔹 AI-Driven Smart Suggestions – If demand is high, AI suggests batch preparation for efficiency.
 🔹 Manual Override Option – The owner can adjust pickup times manually if needed.
 
-**📱 3. AI-Driven Customer Experience**
+**📱 3. AI-Driven Customer Experience**-
 🔹 Modern UI with Lottie Animations & Gesture-Based Navigation – An interactive, seamless user experience.
 🔹 Live GPS-Based Order Pickup Tracking – Customers can track their order’s progress.
 🔹 Voice-Based Ordering via AI Assistant (Bolt.AI Integration) – Users can speak their order instead of typing.
 🔹 WhatsApp Chatbot Integration – Customers can place orders, get updates, and confirm pickups via chat.
 
-**💳 4. Secure Multi-Payment Options with AI Fraud Detection**
+**💳 4. Secure Multi-Payment Options with AI Fraud Detection**-
 🔹 Payment Methods: UPI, Debit/Credit Cards, Cash, and Bitcoin.
 🔹 AI Fraud Prevention – Detects fake orders, repeated cancellations, and suspicious activity.
 🔹 Instant Refunds & Smart Discounts – AI dynamically suggests discounts for loyal customers.
 
-**📊 5. Business Dashboard (Advanced Analytics & Insights)**
+**📊 5. Business Dashboard (Advanced Analytics & Insights)**-
 ✔ Live Order Monitoring – Owner can view pending, ongoing, and completed orders.
 ✔ Sales Analytics Dashboard – Track daily, weekly, and monthly sales performance.
 ✔ AI Demand Forecasting – Predict peak business hours & stock requirements.
 ✔ Expense & Profit Tracking – Get real-time reports on revenue, costs, and profit margins.
 
-**📢 6. Customer Engagement & Notifications**
+**📢 6. Customer Engagement & Notifications**-
 ✔ Personalized Dessert Recommendations – AI suggests desserts based on customer history.
 ✔ Loyalty & Referral Programs – Users earn reward points for repeated purchases.
 ✔ Push Notifications for Discounts & Seasonal Offers.
 
 
-**🛠️ Owner Dashboard Enhancements**
+**🛠️ Owner Dashboard Enhancements**-
 🎛️ 1. Order & Pickup Time Management
 ✔ Set Pickup Time Manually OR Use AI-based Scheduling.
 ✔ Real-Time Updates – Owner can call or send a message to customers when the order is nearly ready.
 ✔ Ingredient Stock Management Page – Owner logs stock levels & receives AI-powered restocking recommendations.
 
-**📌 Expected Outcomes & Business Impact**
+**📌 Expected Outcomes & Business Impact**-
 ✔ Fully Automated Order System – Eliminates manual tracking, reducing operational inefficiencies.
 ✔ AI-Optimized Customer Experience – Smart scheduling, interactive UI, and WhatsApp-based ordering.
 ✔ Data-Driven Growth & Expansion Potential – AI-powered insights help optimize business performance.
 ✔ Scalable for Multi-Vendor Expansion – Can evolve into a full-scale street food marketplace.
 
-**Future Enhancements & Next-Phase Expansion**
+**Future Enhancements & Next-Phase Expansion**-
 ✅ AI Chatbot-Based Order Assistance – Users can chat with an AI assistant for recommendations.
 ✅ Voice-Based Order Placement – Hands-free ordering via AI-powered voice recognition.
 ✅ Augmented Reality (AR) Menu – Customers can see 3D models of desserts before purchasing.
@@ -80,7 +80,7 @@ Our system integrates real-time order tracking, AI-driven pickup scheduling, pre
 
 
 
-**Application Use Flow-**
+**Application Use Overview Flow-**
 Your application appears to offer a multi-page user interface with various functionalities (registration, login, dashboards, data input forms, possibly analytics views, etc.). From the screenshots, we can infer several core capabilities:
 
 User Access & Authentication
@@ -94,7 +94,8 @@ Each page (or component) coordinates with your back-end services and/or database
 A. User Authentication and Registration
 Sign-Up / Sign-In Pages: Typical fields include username (or email), password, and any additional profile details.
 
-Functions:
+
+*Functions:*
 
 Password hashing: Uses a standard algorithm like BCrypt, Argon2, or PBKDF2 to securely hash user passwords before storing them in the database.
 Validation: Ensures the email is properly formatted, that passwords meet security criteria (length, complexity), etc.
