@@ -5,17 +5,21 @@ We are developing a highly intelligent, AI-powered mobile application to revolut
 Our system integrates real-time order tracking, AI-driven pickup scheduling, predictive analytics, and business intelligence dashboards to empower small food vendors with enterprise-level efficiency. Built on BOLT.AI, Replit, Flutter, Node.js, PostgreSQL, and AI models, this scalable, cloud-based system enhances order management, reduces operational bottlenecks, and maximizes customer satisfaction.
 
 
-🛠️ Tech Stack & Core Technologies
-Technology	Purpose
-BOLT.AI	AI-powered automation, predictive analytics, & real-time scheduling
-Replit	Cloud-based development & deployment for fast iteration
-Flutter	Cross-platform interactive UI/UX with smooth animations
-Node.js + PostgreSQL	Backend API development & database management
-Python (AI Models)	Machine learning for demand forecasting, pickup time estimation, and fraud detection
-Firebase Authentication	Secure login, multi-factor authentication
-Google Maps API	Real-time location tracking & route optimization
-WhatsApp API	Conversational AI ordering & live notifications
-Blockchain	Secure, tamper-proof transactions & cryptocurrency payments
+# Technology/ Tech stack & Purpose
+
+| **Technology**               | **Purpose & Key Features**                                                                                                                                                                |
+|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **BOLT.AI**                  | AI-powered automation platform that drives predictive analytics and real-time scheduling to optimize operational efficiency and decision-making.                                         |
+| **Replit**                   | Cloud-based development and deployment environment enabling rapid prototyping, collaborative coding, and instant iteration for fast project delivery.                                  |
+| **Flutter**                  | Cross-platform UI toolkit for building interactive, high-performance, and visually appealing mobile and web applications with smooth animations and native-like user experiences.     |
+| **Node.js + PostgreSQL**     | Scalable backend development framework using Node.js for API creation and PostgreSQL for robust, reliable, and relational database management.                                          |
+| **Python (AI Models)**       | Utilizes advanced machine learning models for demand forecasting, dynamic pickup time estimation, fraud detection, and other predictive analytics tasks.                             |
+| **Firebase Authentication**  | Provides secure user authentication with support for multi-factor authentication, ensuring robust security and seamless user management.                                                |
+| **Google Maps API**          | Offers real-time location tracking, route optimization, and geospatial analysis to enhance location-based services and navigation.                                                     |
+| **WhatsApp API**             | Enables conversational AI ordering, live notifications, and direct customer communication through one of the world's most popular messaging platforms.                                |
+| **Blockchain**               | Ensures secure, transparent, and tamper-proof transactions while supporting cryptocurrency payments, enhancing trust and security in financial operations.                         |
+
+
 💡 Core Functionalities & Features
 🚀 1. AI-Powered Order Management & Automation (Bolt.AI-Enabled)
 🔹 Dynamic Order Limits – The app intelligently adjusts the daily order limit (default: 50-60) based on real-time demand, stock availability, and vendor workload.
@@ -91,3 +95,7 @@ Cloud Development	Replit (Fast iterative development & real-time collaboration)
 This project is not just an ordering app; it is a next-generation AI-powered business automation tool that optimizes operations, maximizes profits, and delivers an unmatched customer experience. By leveraging AI, automation, predictive analytics, and seamless UI design, we are setting a new benchmark in smart food-tech solutions.
 
 With future upgrades like voice-based ordering, AR menu previews, blockchain payments, and AI-driven pricing, this platform has the potential to redefine the way street food vendors operate and scale their businesses.
+
+
+
+
